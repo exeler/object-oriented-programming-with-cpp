@@ -138,6 +138,7 @@ Take the following example, which request the user's name and age and writes the
 ```c++
 #include <iostream>
 #include <fstream>
+#include <string>
 
 using namespace std;
 
